@@ -43,7 +43,7 @@
 <a href="https://www.linkedin.com/in/rafamachiaveli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  &nbsp;
 <a href="https://medium.com/@rafamachiaveli" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+</div>&nbsp;
  
 
   
